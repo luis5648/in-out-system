@@ -1,0 +1,15 @@
+body {
+    background: rgb(146, 187, 181);
+    background: linear-gradient(90deg, rgba(146, 187, 181, 1) 0%, rgba(148, 139, 204, 1) 100%);
+}
+
+#form1 {
+    margin: 10%;
+    padding: 5%;
+    background-color: rgb(117, 200, 206);
+    border-radius: 10px;
+}
+
+#btnReg {
+    float: right;
+}
